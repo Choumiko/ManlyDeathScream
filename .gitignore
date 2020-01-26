@@ -4,3 +4,5 @@ factorio_mods
 *.iml
 /.buildpath
 /.project
+thumbnail.xcf
+.settings/org.eclipse.ldt.prefs
